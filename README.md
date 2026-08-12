@@ -49,4 +49,4 @@ Also USB devices have some limitations.
 
 ## Future versions
 A GO based version with graphical interface is planned in the future.
-USB problems will be solved.
+USB problems (https://learn.microsoft.com/en-us/windows/wsl/connect-usb) will be solved.
